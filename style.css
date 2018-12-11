@@ -1,0 +1,34 @@
+#sec-carosuel{
+	background-image: url("img/slide-2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 300px 0;
+	color: #fff;
+}
+#sec-carosuel h1{
+	text-align: center;
+	
+}
+#sec-carosuel h6{
+	text-align: center;
+}
+#sec-about{
+	text-align: center;
+}
+#sec-about h3{
+	margin: 50px;
+}
+footer{
+	text-align: center;
+}
+#sec-counter{
+	text-align: center;
+	margin: 40px;
+	background-color: #010101;
+	color: #fff;
+	padding: 40px;
+}
+#sec-counter p{
+	color: #FE8F01;
+}
